@@ -1,5 +1,6 @@
 <h1 align="center"> Greetings 👋, Berkay here</h1>
-<h3 align="center">A passionate computer engineer</h3>
+<h3 align="center">a computer engineering graduate focused on software development and artificial intelligence.  
+I work across backend and frontend systems, building practical applications with clean structure and real-world use in mind.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanberkay0102&label=Profile%20views&color=0e75b6&style=flat" alt="hanberkay0102" /> </p>
 
