@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanberkay0102&label=Profile%20views&color=0e75b6&style=flat" alt="hanberkay0102" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanberkay0102" alt="hanberkay0102" /></a> </p>
 
 - 🔭 I’m currently working on **AI-based Apps**
 
@@ -13,7 +12,7 @@
 
 - 📫 How to reach me **hanberkay0102@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> </h3>
 <p align="left">
 </p>
 
