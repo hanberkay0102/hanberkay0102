@@ -22,13 +22,12 @@ This profile is where I share my personal and collaborative work — projects bu
 - AI Tools: LLM-based coding tools, AI-assisted development
 - Automation & Media: AI-based app/video automation, Adobe Premiere Pro, CapCut
 
-- 🔭 I’m currently working on **AI-based Apps**
+### Current Focus
 
-- 🌱 I’m currently learning **AI Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/hanberkay0102?tab=repositories](https://github.com/hanberkay0102?tab=repositories)
-
-- 📫 How to reach me **hanberkay0102@gmail.com**
+- 🔭 Working on AI-based applications
+- 🌱 Learning and improving skills in AI development
+- 👨‍💻 Projects: https://github.com/hanberkay0102?tab=repositories
+- 📫 Contact: hanberkay0102@gmail.com
 
 <h3 align="left"> </h3>
 <p align="left">
