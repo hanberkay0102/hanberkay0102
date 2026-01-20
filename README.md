@@ -20,11 +20,11 @@ This profile is where I share my personal and collaborative work — projects bu
 - Databases: PostgreSQL, SQL
 - Version Control: Git
 - AI Tools: LLM-based coding tools, AI-assisted development
-- Automation & Media: AI-based app/video automation, Adobe Premiere Pro, CapCut
+- Automation & Media: AI-based app & video automation, Adobe Premiere Pro, CapCut
 
-### Current Focus
+### In General
 
-- 🔭 Working on AI-based applications
+- 🔭 Working on AI-based applications while developing web applications
 - 🌱 Learning and improving skills in AI development
 - 👨‍💻 Projects: https://github.com/hanberkay0102?tab=repositories
 - 📫 Contact: hanberkay0102@gmail.com
